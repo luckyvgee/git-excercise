@@ -1,4 +1,1 @@
-updated raed me file
-updated second time
-updated raed me file
-updated second time
+I am practicing git commands and updated readme file.
