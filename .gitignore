@@ -1,0 +1,10 @@
+.idea
+.settings
+reports
+backup.log
+target
+test-output
+logs
+*.jar
+.classpath
+.project
